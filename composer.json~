@@ -1,8 +1,8 @@
 {
-    "packages": {
-        "pedrocones/addtoany": {
-             "version": "8.0.1"
-        }
+    "name": "pedrocones/addtoany",
+    "version": "8.0.1",
+    "dist": {
+        "url": "https://github.com/pedrocones/addtoany.git",
+        "type": "git"
     }
-
 }
