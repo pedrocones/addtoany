@@ -1,5 +1,6 @@
 {
     "name": "pedrocones/addtoany",
+        "type": "drupal-module",
     "dist": {
         "url": "https://github.com/pedrocones/addtoany.git",
         "type": "drupal-module"
